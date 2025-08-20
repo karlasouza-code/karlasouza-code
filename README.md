@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Minhas principais linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlasouza-code&layout=compact&langs_count=8&theme=dracula)
 
 ---
 
