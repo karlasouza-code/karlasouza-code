@@ -24,5 +24,5 @@
 
 ### 📫 Como me encontrar
 - 🌐 [LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN)
-- 📧 E-mail: SEU_EMAIL
-- 🐙 [GitHub](https://github.com/SEU_USUARIO)
+- 📧 E-mail: karlasouza6412@gmail.com
+- 🐙 [GitHub](https://github.com/karlasouza-code)
