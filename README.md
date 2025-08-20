@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Karla Regina  
+# 👋 Olá, eu sou a Karla Souza 
 
 💻 Desenvolvedora apaixonada por tecnologia e soluções criativas.  
 🚀 Sempre aprendendo e construindo projetos que fazem a diferença.  
