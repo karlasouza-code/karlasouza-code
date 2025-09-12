@@ -23,6 +23,6 @@
 ---
 
 ### 📫 Como me encontrar
-- 🌐 LinkedIn ([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/karla-souza-5116089b/)
+- 🌐 LinkedIn (https://www.linkedin.com/in/karla-souza-5116089b/)
 - 📧 E-mail: karlasouza6412@gmail.com
 
